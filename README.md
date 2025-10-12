@@ -7,6 +7,9 @@
     <meta name="description" content="Free Time Duration Calculator - Calculate time difference between two dates and times. Get results in years, months, days, hours, minutes, and seconds.">
     <meta name="keywords" content="time duration calculator, time difference calculator, calculate time between dates, work hours calculator, time calculator">
     <title>Time Duration Calculator - Calculate Time Between Dates</title>
+    <!-- AdSense code for your site -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635014658436274"
+     crossorigin="anonymous"></script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -122,9 +125,18 @@
 </head>
 <body>
     <div class="container">
+        <!-- Top Ad Banner -->
         <div class="ad-banner">
-            <!-- Google AdSense or other ad network code here -->
-            Advertisement Space (728x90)
+            <!-- AdSense Responsive Ad (Top Banner) -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-2635014658436274"
+                data-ad-slot="YOUR_TOP_BANNER_SLOT_ID"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
         </div>
         <header>
             <h1>⏱️ Time Duration Calculator</h1>
@@ -170,9 +182,18 @@
                 </div>
             </div>
         </div>
+        <!-- Sidebar Ad -->
         <div class="ad-sidebar">
-            <!-- AdSense or other ad network code here -->
-            Advertisement Space (300x250)
+            <!-- AdSense Responsive Ad (Sidebar) -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-2635014658436274"
+                data-ad-slot="YOUR_SIDEBAR_SLOT_ID"
+                data-ad-format="rectangle, horizontal"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
         </div>
         <div class="features">
             <h2>How to Use This Time Duration Calculator</h2>
@@ -186,9 +207,18 @@
                 <li>Works on mobile, tablet, and desktop</li>
             </ul>
         </div>
+        <!-- Bottom Ad Banner -->
         <div class="ad-banner">
-            <!-- Google AdSense or other ad network code here -->
-            Advertisement Space (728x90)
+            <!-- AdSense Responsive Ad (Bottom Banner) -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-2635014658436274"
+                data-ad-slot="YOUR_BOTTOM_BANNER_SLOT_ID"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
         </div>
         <footer>
             <p>&copy; 2025 Time Duration Calculator. Fast, free & accurate.</p>
@@ -267,3 +297,4 @@
     </script>
 </body>
 </html>
+
